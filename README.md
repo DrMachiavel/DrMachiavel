@@ -4,6 +4,7 @@ Hello World !
 I'm an entrepreneur at heart and teacher by passion.
 I create companies making money online, SaaS, Ecommerce, online courses and more.
 My biggest project is [Edusign](https://edusign.fr).
+My pet project is a Digital Asset Management system for SMBs.
 
 I'm currently trying to add value with my skills in :
 * Marketing
